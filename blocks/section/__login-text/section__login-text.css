@@ -1,0 +1,7 @@
+.section__login-text {
+    margin-right: 30px;
+}
+
+.section__login-text:last-of-type {
+    margin-right: 0;
+}

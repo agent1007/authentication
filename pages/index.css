@@ -1,0 +1,47 @@
+
+@import url(../vendor/normalize.css);
+@import url(../blocks/body/body.css);
+@import url(../blocks/card-3d-wrap/card-3d-wrap.css);
+@import url(../blocks/card-3d-wrapper/card-3d-wrapper.css);
+@import url(../blocks/card-back/card-back.css);
+@import url(../blocks/card-front/card-front.css);
+@import url(../blocks/center-wrap/center-wrap.css);
+@import url(../blocks/checkbox/checkbox.css);
+
+@import url(../blocks/form-group/form-group.css);
+@import url(../blocks/form-style/form-style.css);
+@import url(../blocks/full-height/full-height.css);
+@import url(../blocks/input-icon/input-icon.css);
+@import url(../blocks/link/link.css);
+@import url(../blocks/section/section.css);
+@import url(../blocks/section/__login/section__login.css);
+@import url(../blocks/section/__login-text/section__login-text.css);
+@import url(../blocks/container/container.css);
+@import url(../blocks/container/__title/container__title.css);
+@import url(../blocks/container/__link/container__link.css);
+@import url(../blocks/container/__button/container__button.css);
+@import url(../blocks/container/__button/_bottom/container__button_bottom.css);
+
+
+/* a {
+	cursor: pointer;
+  transition: all 200ms linear;
+}
+a:hover {
+	text-decoration: none;
+} */
+
+p {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.7;
+}
+
+/* h6 span{
+  padding: 0 20px;
+  text-transform: uppercase;
+  font-weight: 700;
+} */
+
+
+
